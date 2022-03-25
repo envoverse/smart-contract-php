@@ -4,7 +4,17 @@
 ``composer install``
 needed with the packages listed in composer.json
 
-*Do not forget to set your INFURA ID in line 75* 
+* Do not forget to set your INFURA ID in line 75
+* Do not forget to set the right contract address in line 18
+
+
+After installation, adjust the code and look for the accepted commands.
+The script is called via GET or POST and delivers JSON results to the caller
+for your finest AJAX moments.
+
+``https://localhost/contract.php?c=totasup&w=YOUR_ETH_WALLET&p=OTIONAL_PARAMS``
+
+The contract address is in in LINE #18!
 
 ### Reasoning
 Here a simple PHP script, that is talking to our ENVOVERSE.com smart contract

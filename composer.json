@@ -1,0 +1,7 @@
+{
+    "minimum-stability":"dev",
+    "require": {
+        "web3p/web3.php": "dev-master",
+        "wmh/php-ecrecover": "dev-master"
+    }
+}

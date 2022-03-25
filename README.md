@@ -4,9 +4,9 @@
 ``composer install``
 needed with the packages listed in composer.json
 
-* Do not forget to set your INFURA ID in line 75
 * Do not forget to set the right contract address in line 18
-
+* Also add the write ABI code from your contract then in line 15
+* Do not forget to set your INFURA ID in line 75
 
 After installation, adjust the code and look for the accepted commands.
 The script is called via GET or POST and delivers JSON results to the caller

@@ -14,7 +14,7 @@ for your finest AJAX moments.
 
 ``https://localhost/contract.php?c=totasup&w=YOUR_ETH_WALLET&p=OTIONAL_PARAMS``
 
-The contract address is in in LINE #18!
+The contract address is in LINE #18!
 
 ### Reasoning
 Here a simple PHP script, that is talking to our ENVOVERSE.com smart contract
